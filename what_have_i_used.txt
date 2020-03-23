@@ -1,0 +1,5 @@
+Bootstrap = https://getbootstrap.com/
+Bootstrap components = https://getbootstrap.com/docs/4.4/components/
+Smooth scroll for navigation in page = https://github.com/cferdinandi/smooth-scroll
+Icons = https://fontawesome.com/v4.7.0/
+
